@@ -36,7 +36,6 @@ The [wiki](https://github.com/tengames/battle-ship-online/wiki) provides impleme
 ## Dependencies
 
 ## Requirements
-- Java 1.6
 
 ## License
 This project is currently available under the [MIT](LICENSE) License.
